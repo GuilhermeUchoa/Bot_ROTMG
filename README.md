@@ -9,4 +9,4 @@ Bot Realm of the Mad God Exalt (ROTMG). (Auto_nexus, Auto_HP, Auto_Loot)
 
 *Auto_Nexus é acionado quando o HP fica laranja.
 
-**Para iniciar, entre no jogo e após isso clique em main ou no arquivo .exe (de
+**Para iniciar, entre no jogo e após isso clique em main ou no arquivo .exe (dentro da pasta output), ira abrir uma janela msdos, ao abrir afaste ela da barra do HP.**
